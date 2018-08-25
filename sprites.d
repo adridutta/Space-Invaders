@@ -1,0 +1,22 @@
+.\sprites.o: Sprites.c
+.\sprites.o: C:\Users\Adri\Desktop\Embedded Systems\ARM\ARMCC\bin\..\include\stdint.h
+.\sprites.o: tm4c123gh6pm.h
+.\sprites.o: ST7735.h
+.\sprites.o: Random.h
+.\sprites.o: PLL.h
+.\sprites.o: ADC.h
+.\sprites.o: Random.h
+.\sprites.o: PLL.h
+.\sprites.o: Sprites.h
+.\sprites.o: Random.h
+.\sprites.o: PLL.h
+.\sprites.o: ADC.h
+.\sprites.o: Random.h
+.\sprites.o: PLL.h
+.\sprites.o: SpaceInvaders.h
+.\sprites.o: Random.h
+.\sprites.o: PLL.h
+.\sprites.o: ADC.h
+.\sprites.o: Random.h
+.\sprites.o: PLL.h
+.\sprites.o: Timer0.h

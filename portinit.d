@@ -1,0 +1,24 @@
+.\portinit.o: Portinit.c
+.\portinit.o: C:\Users\Adri\Desktop\Embedded Systems\ARM\ARMCC\bin\..\include\stdint.h
+.\portinit.o: tm4c123gh6pm.h
+.\portinit.o: Sprites.h
+.\portinit.o: ST7735.h
+.\portinit.o: Random.h
+.\portinit.o: PLL.h
+.\portinit.o: ADC.h
+.\portinit.o: Random.h
+.\portinit.o: PLL.h
+.\portinit.o: SpaceInvaders.h
+.\portinit.o: Random.h
+.\portinit.o: PLL.h
+.\portinit.o: ADC.h
+.\portinit.o: Random.h
+.\portinit.o: PLL.h
+.\portinit.o: Timer0.h
+.\portinit.o: SpaceInvaders.h
+.\portinit.o: Random.h
+.\portinit.o: PLL.h
+.\portinit.o: ADC.h
+.\portinit.o: Random.h
+.\portinit.o: PLL.h
+.\portinit.o: Portinit.h
